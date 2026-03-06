@@ -77,7 +77,6 @@ jq \
 
 mv "$TMP_CONFIG" "$OPENCLAW_CONFIG"
 
-cat "$OPENCLAW_CONFIG"
 echo "============================================"
 echo "OpenClaw Gateway starting on $HOST:$PORT"
 echo "Model: $MODEL"
